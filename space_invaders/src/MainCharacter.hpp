@@ -1,10 +1,3 @@
-//
-//  MainCharacter.hpp
-//  space_invaders
-//
-//  Created by Aritro Nandi on 1/9/20.
-//
-
 #pragma once
 
 #include <stdio.h>
