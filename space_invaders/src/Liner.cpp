@@ -1,10 +1,3 @@
-//
-//  Liner.cpp
-//  space_invaders
-//
-//  Created by Aritro Nandi on 1/9/20.
-//
-
 #include "Liner.hpp"
 
 Liner::Liner(bool setSpawnAtRight) {
