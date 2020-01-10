@@ -7,4 +7,4 @@
 * src
 
 `bin` contains the data needed for the program to run, including the assets for the space ships in the game
-`src` contains the source code itself
+and `src` contains the source code itself
