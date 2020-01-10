@@ -1,6 +1,6 @@
 # Space_Invaders
---A game inspired by Space Invaders and Asteroids, created using Open Frameworks written in C++
---To use this program, first install open frameworks and then add the folder "space_invaders" into the myapps folder
+* A game inspired by Space Invaders and Asteroids, created using Open Frameworks written in C++
+* To use this program, first install open frameworks and then add the folder "space_invaders" into the myapps folder
 
 ## folder structure
 * bin
